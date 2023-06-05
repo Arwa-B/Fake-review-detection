@@ -9,6 +9,7 @@ We extracted the length of the text, percentage of words, and percentage of stop
 * Sentiment analysis 
 * Text classification 
 * Brand Reputation Management
+* Topic Modeling
 
 ## Summary 
 | Metric    | Value |
